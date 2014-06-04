@@ -1,0 +1,30 @@
+Keyword(s) used: UFO, flying disc, disc, saucer, extraterrestrial craft, flying saucer, space ship, space craft, air ship, phantom, space probe
+No of files processed: 2067
+No of files containing keyword(s): 145
+
+No of occurrences of each keyword:
+----------------------------------
+	UFO: 158
+	flying disc: 15
+	disc: 113
+	saucer: 120
+	extraterrestrial craft: 0
+	flying saucer: 30
+	space ship: 4
+	space craft: 3
+	air ship: 0
+	phantom: 1
+	space probe: 0
+No of files containing each keyword:
+----------------------------------
+	UFO: 65
+	flying disc: 4
+	disc: 55
+	saucer: 8
+	extraterrestrial craft: 0
+	flying saucer: 6
+	space ship: 3
+	space craft: 3
+	air ship: 0
+	phantom: 1
+	space probe: 0
